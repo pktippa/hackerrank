@@ -1,0 +1,9 @@
+# We need to find value of x when y is given. Also we are given two linear equations. 
+# But we need to find the value of x when y is given (i.e. y is independant) which 
+# corresponds to the line of x on y(2nd eq). So put the given value of y in 2nd equation 
+# and find x.
+
+# 2nd equation
+ 20x – 9y – 107 = 0
+ # Given y value is 7, and we need to find x
+ X value leads to - 8.5
